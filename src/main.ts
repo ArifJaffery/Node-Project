@@ -1,6 +1,5 @@
 export class main{
     constructor(){
-        console.log('Sample application');
+        console.log('Sample Node.js application...');
     }
 }
-export default new main();

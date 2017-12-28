@@ -2,9 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var main = /** @class */ (function () {
     function main() {
-        console.log('Sample application');
+        console.log('Sample Node.js application...');
     }
     return main;
 }());
 exports.main = main;
-exports.default = new main();

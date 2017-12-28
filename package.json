@@ -18,7 +18,10 @@
   "homepage": "https://github.com/ArifJaffery/Node-Project#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
     "gulp-typescript": "^3.2.3",
+    "gulp-uglify": "^3.0.0",
+    "nodemon": "^1.14.3",
     "typescript": "^2.6.2"
   }
 }

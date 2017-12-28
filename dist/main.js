@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var main=function(){return function(){console.log("Sample Node.js application...")}}();exports.main=main;
