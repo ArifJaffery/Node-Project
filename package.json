@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Node.js Project",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArifJaffery/Node-Project.git"
+  },
+  "author": "Arif Jaffery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArifJaffery/Node-Project/issues"
+  },
+  "homepage": "https://github.com/ArifJaffery/Node-Project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
